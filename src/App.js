@@ -1,6 +1,6 @@
-import logo from './logo.svg';
 import './App.css';
 import Nav from "./components/header/Nav";
+import * as React from "react";
 
 function App() {
   return (
